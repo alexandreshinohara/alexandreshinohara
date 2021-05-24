@@ -1,6 +1,6 @@
 Hi, I’m Alexandre - 
 
-I am very interested Data Engineering, Data Visualization, and Web Scraping. 
+I am very interested in Data Engineering, Data Visualization, and Web Scraping. 
 
 Reach me out at twitter.com/alexandreshinohara
 
