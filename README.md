@@ -2,7 +2,7 @@ Hi, I’m Alexandre -
 
 I am very interested in Data Engineering, Data Visualization, and Web Scraping. 
 
-Reach me out at twitter.com/alexandreshinohara
+Reach me out at twitter.com/alexandre_shino
 
 <!---
 alexandreshinohara/alexandreshinohara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
