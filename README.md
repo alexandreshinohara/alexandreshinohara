@@ -1,6 +1,6 @@
 Hi, I’m Alexandre - 
 
-this is my github repos for all coding projects. Currently I am deep diving in the python data science stack (pandas, matplotlib, seaborn). Also very interested in data pipelines / ETLs and web scraping.
+this is my github for all my coding projects. Currently I am deep diving in the python data science stack (pandas, matplotlib, seaborn). Also very interested in data pipelines / ETLs and web scraping.
 
 Reach me out at twitter.com/alexandre_shino
 
